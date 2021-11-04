@@ -7,4 +7,4 @@ Authors
 
 Eleni Aklilu {}
 
-Kelbi Zerihun {kelbizerihun3080@gmail.com@gmail.com}
+Kelbi Zerihun {kelbizerihun3080@gmail.com}
