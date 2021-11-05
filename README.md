@@ -5,6 +5,6 @@ At this time, there are no known bugs.
 
 Authors
 
-Eleni Aklilu {}
+Eleni Aklilu {eleni55aklilu@gmail.com}
 
 Kelbi Zerihun {kelbizerihun3080@gmail.com}
